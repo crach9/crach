@@ -608,11 +608,11 @@ article h1 {
 .custom-footer {
     background-color: #212121;
     color: #ccc;
-    padding: 60px 0 30px;
+    padding: 100px 0 30px;
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 14px;
     line-height: 1.6;
-    margin-top: 40px;
+    margin-top: 0px;
 }
 
 .custom-footer .footer-container {
@@ -633,11 +633,11 @@ article h1 {
 .custom-footer .footer-column h4 {
     font-size: 16px;
     font-weight: bold;
-    margin-top: 0; /* Убрали верхний отступ */
+    margin-top: -40px; /* Убрали верхний отступ */
     margin-bottom: 15px; /* Уменьшенный нижний отступ */
     color: white;
     position: absolute;
-    bottom: 100px;
+    
 }
 
 .custom-footer .footer-column ul {
